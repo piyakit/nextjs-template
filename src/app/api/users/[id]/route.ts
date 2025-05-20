@@ -1,4 +1,4 @@
-import { HttpStatus } from '@/app/lib/constrants/http-status';
+import { HttpStatus } from '@/lib/constrants/http-status';
 import { NextResponse } from 'next/server';
 
 let users = [
